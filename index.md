@@ -10,9 +10,9 @@ $10K
 
 ### Podcasts
 
-1. [Epicenter](https://epicenter.tv/)
-2. [Bankless](https://newsletter.banklesshq.com/)
-3. [EthHub](https://ethhub.substack.com/)
+1. [Bankless](https://newsletter.banklesshq.com/)
+2. [EthHub](https://ethhub.substack.com/)
+3. [Epicenter](https://epicenter.tv/)
 
 ### Games
 
