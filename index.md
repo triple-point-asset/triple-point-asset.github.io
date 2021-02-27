@@ -2,7 +2,7 @@
 ETH
 # Sources
 ## Podcasts
-1.[Epicenter](https://epicenter.tv/)
+1. [Epicenter](https://epicenter.tv/)
 2. [Bankless](https://newsletter.banklesshq.com/)
 3. [EthHub](https://ethhub.substack.com/)
 ## News
