@@ -15,6 +15,7 @@ $10K
 3. [Epicenter](https://epicenter.tv/)
 
 ### Games
+[Blockchaincuties](https://blockchaincuties.com)
 
 ### Twitter accounts
 
