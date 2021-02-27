@@ -2,5 +2,5 @@
 ETH
 # Sources
 ## News
-[Bankless](https://newsletter.banklesshq.com/)
-[EthHub](https://ethhub.substack.com/
+1. [Bankless](https://newsletter.banklesshq.com/)
+2. [EthHub](https://ethhub.substack.com/)
